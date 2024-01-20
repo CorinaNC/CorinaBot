@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "name": "corinabot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorinaNC/CorinaBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CorinaNC/CorinaBot/issues"
+  },
+  "homepage": "https://github.com/CorinaNC/CorinaBot#readme",
+  "description": ""
+}
